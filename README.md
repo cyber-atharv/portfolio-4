@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+Or access the online demo here: [Live Demo](https://cyber-atharv.github.io/portfolio-4/)
 
 ---
 
@@ -38,19 +38,14 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Saboo24/Sabo.git
+   git clone https://github.com/cyber-atharv/portfolio-4.git
    cd Sabo
    
 ---
 
-## 📬 Contact
+## ?? Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-Atharv-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
-
+- Email: [atharvhogade12@gmail.com](mailto:atharvhogade12@gmail.com)
 ---
 
 Made with ❤️ by **Atharv**
